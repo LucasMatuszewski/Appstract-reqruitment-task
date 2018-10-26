@@ -1,0 +1,10 @@
+{
+  "name": "Appstract",
+  "version": "0.1.0",
+  "description": "Reqruitment task in Appstract: basic SPA + Node API",
+  "main": "server.js",
+  "repository": "https://github.com/LucasMatuszewski/Appstract-reqruitment-task",
+  "author": "LucasMatuszewski <lucas.matuszewski@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
